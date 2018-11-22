@@ -25,7 +25,6 @@ else:
     print("color is neither red nor blue")
 
 # nest if statments
-
 if color == "red":
     if x < 10:
         print("TRUE")
